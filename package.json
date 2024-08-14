@@ -1,16 +1,11 @@
 {
-<<<<<<< HEAD
-  "name": "backend",
-=======
-  "name": "frontend",
->>>>>>> c68d38a (Initialize project using Create React App)
+  "name": "frontend", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
-<<<<<<< HEAD
     "axios": "^1.7.2",
     "bcrypt": "^5.1.1",
     "bcryptjs": "^2.4.3",
@@ -24,17 +19,13 @@
     "nodemailer": "^6.9.13",
     "react": "^18.3.1",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.22.3",
     "react-scripts": "5.0.1",
     "socket.io": "^4.7.5",
     "socket.io-client": "^4.7.5",
+    "styled-components": "^6.1.11",
     "web-vitals": "^2.1.4",
     "xml2js": "^0.6.2"
-=======
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "react-scripts": "5.0.1",
-    "web-vitals": "^2.1.4"
->>>>>>> c68d38a (Initialize project using Create React App)
   },
   "scripts": {
     "start": "react-scripts start",
