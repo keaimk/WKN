@@ -1,0 +1,68 @@
+.fukuoka-embassy-info {
+  width: 700px;
+  height: 450px;
+  padding: 20px;
+  background-color: none;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  position: absolute; 
+  top: calc(50% + 70px); 
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.fukuoka-embassy-info h2 {
+  text-align: center;
+  margin-top: 28px;
+  margin-bottom: 35px;
+}
+
+.fukuoka-embassy-info p {
+  display: flex;
+  align-items: center;
+  margin-bottom: 5px;
+  margin-left: 65px;
+}
+
+.fukuoka-embassy-info a {
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}  
+
+.fukuoka-embassy-info a:hover {
+  text-decoration: underline;
+}
+
+.address-icon, .homepage-icon, .phone-icon, .email-icon {
+  width: 25px;
+  height: 25px;
+  margin-top: -5px;
+  margin-right: 10px; 
+  vertical-align: middle;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.input-container input[type="number"],
+.input-container select {
+  flex: 1;
+  height: 35px;
+  padding: 5px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.input-container select {
+  margin-left: 10px;
+}
+
+.result {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+}

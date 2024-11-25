@@ -1,0 +1,37 @@
+.chatroomlist2-container {
+    width: 250px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-right: 1px solid #ddd;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+}
+  
+  .chatroomlist2-container h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+  
+  .chatroomlist2-container ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .chatroomlist2-container li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 1em;
+  }
+  
+  .chatroomlist2-container li:last-child {
+    border-bottom: none;
+  }
+
+  .chatroomlist2-container ul li a {
+    color: #000;
+    text-decoration: none;
+  }

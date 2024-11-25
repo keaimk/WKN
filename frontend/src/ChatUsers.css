@@ -1,0 +1,32 @@
+.chatusers-container {
+    width: 250px;
+    padding: 15px;
+    background-color: #f9f9f9;
+    border-left: 1px solid #ddd;
+    box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+    overflow-y: auto;
+    height: 100vh;
+    position: fixed;
+    right: 0;
+    top: 0;
+  }
+  
+  .chatusers-container h2 {
+    margin-top: 0;
+    font-size: 1.2em;
+  }
+  
+  .chatusers-container ul {
+    list-style-type: none;
+    padding-left: 0;
+  }
+  
+  .chatusers-container li {
+    padding: 10px 0;
+    border-bottom: 1px solid #eee;
+    font-size: 1em;
+  }
+  
+  .chatusers-container li:last-child {
+    border-bottom: none;
+  }  
