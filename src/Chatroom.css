@@ -1,0 +1,46 @@
+.chatroom-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+/* 폼 컨테이너 */
+.form-container {
+    width: 400px;
+    margin-top: -10px;
+    text-align: center;
+}
+
+/* 제목 스타일 */
+.chatroom-container h1 {
+    margin-bottom: 20px;
+    font-size: 35px;
+    color: #333;
+}
+
+/* 입력 필드 스타일 */
+.form-container input[type="text"] {
+    width: 200px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* 버튼 스타일 */
+.form-container button {
+    width: 150px;
+    padding: 10px;
+    background-color: #F2CB61;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+
+.form-container button:hover {
+    background-color: #CCA63D;
+}
