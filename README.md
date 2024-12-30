@@ -1,7 +1,7 @@
 # WKN
 
 ## 🌎 프로젝트 소개
-WKN은 해외 거주 지역을 기반으로 커뮤니티를 형성하고, 그 정보를 공유하는 플랫폼입니다.
+"WKN"은 해외 거주 지역을 기반으로 커뮤니티를 형성하고, 그 정보를 공유하는 플랫폼입니다.
 
 해외 생활에 필요한 다양한 정보를 자유롭게 공유하고 소통할 수 있는 공간을 제공합니다.
 
@@ -49,3 +49,9 @@ WKN은 해외 거주 지역을 기반으로 커뮤니티를 형성하고, 그 �
 <details>
   <summary>마이페이지</summary>
 </details>
+
+## ⚙기술 스택 
+### FE
+<img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=Node.js&logoColor=white" width="100" height="30"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" width="100" height="30"/>
+
+### BE
