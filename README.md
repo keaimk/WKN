@@ -16,8 +16,20 @@
   </thead>
   <tbody>
     <tr>
-      <td><!-- 역할 적기 --></td>
-      <td><!-- 역할 적기 --></td>
+      <td>
+        - 로그인 및 회원가입<br>
+        - 비밀번호 찾기<br>
+        - 게시판 CRUD<br>
+        - 댓글 CRUD<br>
+        - 채팅 CRUD<br>
+        - 날씨<br>
+        - 정보<br>
+        - 마이페이지
+      </td>
+      <td>
+        - 뉴스 크롤링<br>
+        - EC2 및 Nginx를 이용한 서버 배포
+      </td>
     </tr>
   </tbody>
 </table>
