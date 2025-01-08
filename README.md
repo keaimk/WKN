@@ -37,9 +37,12 @@
 ## ⭐ 프로젝트
 <details>
   <summary>로그인 및 회원가입</summary>
+  <img src="https://github.com/user-attachments/assets/b6694063-1695-4246-80d3-45f09f6eaf8e" width="1750">
+  <img src="https://github.com/user-attachments/assets/11c1b360-027c-46d5-b44b-568047a32d07" width="1750">
 </details>
 <details>
   <summary>비밀번호 찾기</summary>
+  <img src="https://github.com/user-attachments/assets/cece5b35-8b3d-4b3c-b891-d0e4150bb7c3" width="1750">
 </details>
 <details>
   <summary>홈 화면 및 게시판</summary>
