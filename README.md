@@ -59,8 +59,8 @@
 </details>
 <details>
   <summary>채팅</summary>
-  <img src="https://github.com/user-attachments/assets/0aaf8e13-d2fa-4cb6-9c58-bc384afb8c4a" width="600">
   <img src="https://github.com/user-attachments/assets/671796b4-20db-45bf-bbce-986819b4c936" width="600">
+  <img src="https://github.com/user-attachments/assets/0aaf8e13-d2fa-4cb6-9c58-bc384afb8c4a" width="500">
   <img src="https://github.com/user-attachments/assets/bd7a60b3-8f37-4439-bb35-97d7778eefa5" width="1000">
 </details>
 <details>
