@@ -16,11 +16,14 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>김민경</td>
-      <td>팀장</td>
-      <td>로그인 및 회원가입, 비밀번호 찾기, 게시판 CRUD, 댓글 CRUD, 채팅 CRUD, 날씨, 정보, 마이페이지</td>
-    </tr>
+   <tr>
+  <td>김민경</td>
+  <td>팀장</td>
+  <td>
+    로그인 및 회원가입, 비밀번호 찾기, 날씨, 정보, 마이페이지 <br>
+    게시판 CRUD, 댓글 CRUD, 채팅 CRUD
+  </td>
+</tr>
     <tr>
       <td>박예진</td>
       <td>팀원</td>
