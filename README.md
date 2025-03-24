@@ -8,29 +8,41 @@
 
 ## 👩‍💻 팀원 소개 및 역할
 <table>
-  <thead>
-    <tr>
-      <th>이름</th>
-      <th>역할</th>
-      <th>담당 업무</th>
-    </tr>
-  </thead>
   <tbody>
-   <tr>
-  <td>김민경</td>
-  <td>팀장</td>
-  <td>
-    로그인 및 회원가입, 비밀번호 찾기, 날씨, 정보, 마이페이지 <br>
-    게시판 CRUD, 댓글 CRUD, 채팅 CRUD
-  </td>
-</tr>
+    <tr>
+      <td><strong>이름</strong></td>
+      <td><strong>역할</strong></td>
+      <td><strong>담당 업무</strong></td>
+    </tr>
+    <tr>
+      <td>김민경</td>
+      <td>팀장</td>
+      <td>
+        <ul>
+          <li>로그인 및 회원가입</li>
+          <li>비밀번호 찾기</li>
+          <li>날씨</li>
+          <li>정보</li>
+          <li>마이페이지</li>
+          <li>게시판 CRUD</li>
+          <li>댓글 CRUD</li>
+          <li>채팅 CRUD</li>
+        </ul>
+      </td>
+    </tr>
     <tr>
       <td>박예진</td>
       <td>팀원</td>
-      <td>뉴스 크롤링, EC2 및 Nginx를 이용한 서버 배포</td>
+      <td>
+        <ul>
+          <li>뉴스 크롤링</li>
+          <li>EC2 및 Nginx를 이용한 서버 배포</li>
+        </ul>
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 ## ⭐ 프로젝트
 <details>
