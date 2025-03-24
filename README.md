@@ -45,22 +45,22 @@
 <details>
   <summary>홈 화면 및 게시판</summary>
   <img src="https://github.com/user-attachments/assets/55b0a4c6-a18f-40ab-9ea9-1812eac8daf7" width="1000">
-  <img src="https://github.com/user-attachments/assets/c6d923da-7627-44b4-9a01-a3d5d6391102" width="500">
-  <img src="https://github.com/user-attachments/assets/480416d6-c4dc-4491-b54c-f8fc4c64aad7" width="500">
+  <img src="https://github.com/user-attachments/assets/c6d923da-7627-44b4-9a01-a3d5d6391102" width="600">
+  <img src="https://github.com/user-attachments/assets/480416d6-c4dc-4491-b54c-f8fc4c64aad7" width="600">
 </details>
 <details>
   <summary>뉴스</summary>
-  <img src="https://github.com/user-attachments/assets/20ddf611-7172-4e46-8fad-f2be5921c72c" width="500">
-  <img src="https://github.com/user-attachments/assets/123a8d4e-eac3-47b6-bd9b-075d11d805c4" width="500">
+  <img src="https://github.com/user-attachments/assets/20ddf611-7172-4e46-8fad-f2be5921c72c" width="600">
+  <img src="https://github.com/user-attachments/assets/123a8d4e-eac3-47b6-bd9b-075d11d805c4" width="600">
 </details>
 <details>
   <summary>날씨</summary>
-  <img src="https://github.com/user-attachments/assets/39978caa-2fa1-4021-a3b5-ff07514b475f" width="700">
+  <img src="https://github.com/user-attachments/assets/39978caa-2fa1-4021-a3b5-ff07514b475f" width="600">
 </details>
 <details>
   <summary>채팅</summary>
-  <img src="https://github.com/user-attachments/assets/0aaf8e13-d2fa-4cb6-9c58-bc384afb8c4a" width="500">
-  <img src="https://github.com/user-attachments/assets/671796b4-20db-45bf-bbce-986819b4c936" width="500">
+  <img src="https://github.com/user-attachments/assets/0aaf8e13-d2fa-4cb6-9c58-bc384afb8c4a" width="600">
+  <img src="https://github.com/user-attachments/assets/671796b4-20db-45bf-bbce-986819b4c936" width="600">
   <img src="https://github.com/user-attachments/assets/bd7a60b3-8f37-4439-bb35-97d7778eefa5" width="1000">
 </details>
 <details>
@@ -69,7 +69,7 @@
 </details>
 <details>
   <summary>마이페이지</summary>
-  <img src="https://github.com/user-attachments/assets/483ed2cc-b3a0-49b9-be73-9a7f00842134" width="700">
+  <img src="https://github.com/user-attachments/assets/483ed2cc-b3a0-49b9-be73-9a7f00842134" width="500">
 </details>
 
 ## ⚙ 기술 스택 
