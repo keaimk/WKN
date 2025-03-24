@@ -95,3 +95,4 @@
 <img src="https://github.com/user-attachments/assets/a5b3a89e-5235-4c02-aa59-c6e735c70c25" width="700">
 
 ## 🌀 ERD
+추후 업데이트 예정
