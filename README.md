@@ -21,12 +21,12 @@
         <ul>
           <li>로그인 및 회원가입</li>
           <li>비밀번호 찾기</li>
-          <li>날씨</li>
-          <li>정보</li>
-          <li>마이페이지</li>
           <li>게시판 CRUD</li>
           <li>댓글 CRUD</li>
           <li>채팅 CRUD</li>
+          <li>날씨</li>
+          <li>정보</li>
+          <li>마이페이지</li>
         </ul>
       </td>
     </tr>
